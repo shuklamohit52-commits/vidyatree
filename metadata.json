@@ -1,0 +1,6 @@
+{
+  "name": "Vidyatree Publication",
+  "description": "Official Academic CBSE Lab Manuals and Competitive Exam Books Catalogue with interactive PDF E-Book Reader for Vidyatree Publication, Lucknow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
